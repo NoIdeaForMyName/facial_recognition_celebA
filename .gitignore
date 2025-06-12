@@ -1,0 +1,11 @@
+# IDE specific
+.idea
+
+# Lanugage specific
+.venv
+__pycache__
+
+# OS specific
+.DS_Store
+
+data
